@@ -1,0 +1,13 @@
+{
+    "name": "creativestyle/google-sheets-downloader",
+    "description": "Library for downloading Google Sheets as CSV files",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Marek Zabrowarny",
+            "email": "marek.zabrowarny@creativestyle.pl"
+        }
+    ],
+    "require": {
+    }
+}
