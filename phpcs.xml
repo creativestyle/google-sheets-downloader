@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Google Sheets Downloader
+ *
+ * @author    Marek Zabrowarny <marek.zabrowarny@creativestyle.pl>
+ * @copyright 2017 creativestyle
+ */
+-->
+<ruleset name="Google Sheets Downloader Coding Standards">
+    <description>Google Sheets Downloader coding standards</description>
+    <rule ref="PSR2"/>
+</ruleset>
