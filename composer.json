@@ -11,6 +11,7 @@
     "require": {
         "symfony/console": "^3.2.3",
         "symfony/dependency-injection": "^3.2.3",
+        "symfony/config": "~3.0",
         "google/apiclient": "^2.0"
     },
     "require-dev": {
